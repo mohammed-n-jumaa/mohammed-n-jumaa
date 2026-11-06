@@ -1,12 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:C850C0,100:00DBDE&height=220&section=header&text=Mohammed%20Nedal%20Jumaa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C850C0&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Laravel+%7C+PHP+%7C+Node.js;Turning+ideas+into+real+products+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <img src="./assets/header.svg" width="100%" alt="Mohammed Nedal Jumaa" />
 </p>
 
 <p align="center">
@@ -18,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/images/coding.gif" alt="coding" />
+<img align="right" width="380" src="./assets/coding.svg" alt="coding" />
 
 - 🚀 **Full Stack Developer** passionate about building fast, beautiful and scalable web apps
 - 💡 I love turning complex problems into simple, elegant interfaces
@@ -48,30 +42,49 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/mohammed-n-jumaa/NEXT-Portfolio">NEXT-Portfolio</a></h3>
-      <p>My personal portfolio built with Next.js & TypeScript — fast, modern and fully responsive.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <h3>🎮 <a href="https://github.com/mohammed-n-jumaa/Gaming_portfolio">Gaming Portfolio</a></h3>
+      <p>A gaming-themed interactive portfolio with bold visuals and smooth animations.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <br/><br/>
-      <a href="https://mohammed-nedal-dev.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/mohammed-n-jumaa/Gaming_portfolio"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/mohammed-n-jumaa/Arab-Trade">Arab-Trade</a></h3>
-      <p>A trading / e-commerce web platform built with JavaScript.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <h3>🥗 <a href="https://github.com/mohammed-n-jumaa/RanLogic">RanLogic</a></h3>
+      <p>A personalized nutrition platform that builds custom diet plans for every user.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/mohammed-n-jumaa/RanLogic"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/mohammed-n-jumaa/LogicLeap">LogicLeap</a></h3>
-      <p>An interactive JavaScript web application.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <h3>📝 <a href="https://github.com/mohammed-n-jumaa/Jocom_Feedback">Jocom Feedback</a></h3>
+      <p>A feedback management system to collect, organize and analyze user feedback.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/mohammed-n-jumaa/Jocom_Feedback"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🍊 <a href="https://github.com/mohammed-n-jumaa/Orang_Community_React">Orang Community</a></h3>
+      <h3>🍊 <a href="https://github.com/mohammed-n-jumaa/Orang_Community_React">Orange Community</a></h3>
       <p>A community platform with a React frontend and a PHP backend.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/mohammed-n-jumaa/Orang_Community_React"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>🏆 <a href="https://github.com/mohammed-n-jumaa/Master_piece_work">Master Piece</a></h3>
+      <p>My masterpiece graduation project — a complete full stack web application.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br/><br/>
+      <a href="https://github.com/mohammed-n-jumaa/Master_piece_work"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -116,5 +129,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,50:C850C0,100:7F00FF&height=120&section=footer" width="100%" />
+  <img src="./assets/footer.svg" width="100%" />
 </p>
