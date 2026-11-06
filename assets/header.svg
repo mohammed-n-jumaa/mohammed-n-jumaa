@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7F00FF"><animate attributeName="stop-color" values="#7F00FF;#C850C0;#00DBDE;#7F00FF" dur="10s" repeatCount="indefinite"/></stop>
+      <stop offset="50%" stop-color="#C850C0"><animate attributeName="stop-color" values="#C850C0;#00DBDE;#7F00FF;#C850C0" dur="10s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#00DBDE"><animate attributeName="stop-color" values="#00DBDE;#7F00FF;#C850C0;#00DBDE" dur="10s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1200" height="300" rx="24"/></clipPath>
+    <style>
+      .name{font:800 60px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#fff;letter-spacing:1px;opacity:0;animation:up 1s ease-out .2s forwards}
+      .role{font:600 26px 'Fira Code','Consolas',monospace;fill:#fff;opacity:0}
+      .r1{animation:cycle 12s infinite 0s}
+      .r2{animation:cycle 12s infinite 3s}
+      .r3{animation:cycle 12s infinite 6s}
+      .r4{animation:cycle 12s infinite 9s}
+      .dot{fill:#fff;opacity:.25;animation:float 6s ease-in-out infinite}
+      .d2{animation-delay:1.5s}.d3{animation-delay:3s}.d4{animation-delay:4.5s}
+      @keyframes up{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes cycle{0%{opacity:0}4%{opacity:1}22%{opacity:1}26%{opacity:0}100%{opacity:0}}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-18px)}}
+    </style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <circle class="dot" cx="120" cy="80" r="40"/>
+    <circle class="dot d2" cx="1080" cy="70" r="55"/>
+    <circle class="dot d3" cx="980" cy="210" r="22"/>
+    <circle class="dot d4" cx="230" cy="220" r="18"/>
+    <path fill="#ffffff" fill-opacity=".15" d="M0 240 Q150 200 300 240 T600 240 T900 240 T1200 240 V300 H0Z">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 240 Q150 200 300 240 T600 240 T900 240 T1200 240 V300 H0Z;M0 240 Q150 280 300 240 T600 240 T900 240 T1200 240 V300 H0Z;M0 240 Q150 200 300 240 T600 240 T900 240 T1200 240 V300 H0Z"/>
+    </path>
+    <path fill="#ffffff" fill-opacity=".22" d="M0 260 Q200 230 400 260 T800 260 T1200 260 V300 H0Z">
+      <animate attributeName="d" dur="5s" repeatCount="indefinite" values="M0 260 Q200 230 400 260 T800 260 T1200 260 V300 H0Z;M0 260 Q200 290 400 260 T800 260 T1200 260 V300 H0Z;M0 260 Q200 230 400 260 T800 260 T1200 260 V300 H0Z"/>
+    </path>
+    <text class="name" x="600" y="135" text-anchor="middle">Mohammed Nedal Jumaa</text>
+    <text class="role r1" x="600" y="190" text-anchor="middle">&lt; Full Stack Web Developer /&gt;</text>
+    <text class="role r2" x="600" y="190" text-anchor="middle">React · Next.js · TypeScript</text>
+    <text class="role r3" x="600" y="190" text-anchor="middle">Laravel · PHP · Node.js</text>
+    <text class="role r4" x="600" y="190" text-anchor="middle">Turning ideas into real products ✨</text>
+  </g>
+</svg>
