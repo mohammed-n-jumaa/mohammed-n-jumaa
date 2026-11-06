@@ -45,32 +45,52 @@
 
 ## 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/mohammed-n-jumaa/NEXT-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-n-jumaa&repo=NEXT-Portfolio&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-  <a href="https://github.com/mohammed-n-jumaa/Arab-Trade"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-n-jumaa&repo=Arab-Trade&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-  <a href="https://github.com/mohammed-n-jumaa/LogicLeap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-n-jumaa&repo=LogicLeap&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-  <a href="https://github.com/mohammed-n-jumaa/Orang_Community_React"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-n-jumaa&repo=Orang_Community_React&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/mohammed-n-jumaa/NEXT-Portfolio">NEXT-Portfolio</a></h3>
+      <p>My personal portfolio built with Next.js & TypeScript — fast, modern and fully responsive.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <br/><br/>
+      <a href="https://mohammed-nedal-dev.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/mohammed-n-jumaa/Arab-Trade">Arab-Trade</a></h3>
+      <p>A trading / e-commerce web platform built with JavaScript.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/mohammed-n-jumaa/LogicLeap">LogicLeap</a></h3>
+      <p>An interactive JavaScript web application.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍊 <a href="https://github.com/mohammed-n-jumaa/Orang_Community_React">Orang Community</a></h3>
+      <p>A community platform with a React frontend and a PHP backend.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammed-n-jumaa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-n-jumaa&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+  <img src="https://raw.githubusercontent.com/mohammed-n-jumaa/mohammed-n-jumaa/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohammed-n-jumaa/mohammed-n-jumaa/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/mohammed-n-jumaa/mohammed-n-jumaa/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohammed-n-jumaa&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-n-jumaa&theme=tokyo-night&hide_border=true&radius=12&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-n-jumaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---
@@ -89,9 +109,9 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mohammed-nedal-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammed--nedal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohammed.n.jumaa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/mohammed-n-jumaa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
